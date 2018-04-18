@@ -1,0 +1,39 @@
+G:\projects\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.exe.config
+G:\projects\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.exe
+G:\projects\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.pdb
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.csprojResolveAssemblyReference.cache
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.Form1.resources
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.Properties.Resources.resources
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.csproj.GenerateResource.Cache
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.exe
+G:\projects\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.pdb
+D:\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.exe.config
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.exe
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.pdb
+D:\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.exe
+D:\project_3_1_3\project_3_1_3\bin\Debug\project_3_1_3.pdb
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.csprojResolveAssemblyReference.cache
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.Form1.resources
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.Properties.Resources.resources
+D:\project_3_1_3\project_3_1_3\obj\Debug\project_3_1_3.csproj.GenerateResource.Cache
+E:\project_3_1_3(final)\project_3_1_3\bin\Debug\project_3_1_3.exe.config
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.exe
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.pdb
+E:\project_3_1_3(final)\project_3_1_3\bin\Debug\project_3_1_3.exe
+E:\project_3_1_3(final)\project_3_1_3\bin\Debug\project_3_1_3.pdb
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.csprojResolveAssemblyReference.cache
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.Form1.resources
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.Properties.Resources.resources
+E:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.csproj.GenerateResource.Cache
+D:\project_3_1_3(final)\project_3_1_3\bin\Debug\project_3_1_3.exe.config
+D:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.exe
+D:\project_3_1_3(final)\project_3_1_3\obj\Debug\project_3_1_3.pdb
+D:\file shredder git\project_3_1_3\bin\Debug\project_3_1_3.exe.config
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.exe
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.pdb
+D:\file shredder git\project_3_1_3\bin\Debug\project_3_1_3.exe
+D:\file shredder git\project_3_1_3\bin\Debug\project_3_1_3.pdb
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.csprojResolveAssemblyReference.cache
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.Form1.resources
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.Properties.Resources.resources
+D:\file shredder git\project_3_1_3\obj\Debug\project_3_1_3.csproj.GenerateResource.Cache
